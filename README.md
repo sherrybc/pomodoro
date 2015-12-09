@@ -1,7 +1,7 @@
 Pomodoro
 -------------
 
-This is a basic [Meteor](https://www.meteor.com/) app. 
+This is a basic [Meteor](https://www.meteor.com/) app built with Angular Meteor. 
 
 We will use this as a base for our [Pomorodo](http://en.wikipedia.org/wiki/Pomodoro_Technique). 
 
